@@ -1,0 +1,10 @@
+{
+  "description": "Create precise replicas of any design with ease, empowering designers and developers to streamline their workflow and enhance project accuracy.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
